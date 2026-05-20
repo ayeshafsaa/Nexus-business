@@ -2,7 +2,7 @@
 
 > Investor & Entrepreneur Collaboration Platform
 
-**Live Demo:** [your-vercel-link.vercel.app](https://nexus-business-neon.vercel.app/)  
+**Live Demo:** [nexus-business-neon.vercel.app](https://nexus-business-neon.vercel.app/) 
 **GitHub:** [github.com/ayeshafsaa/Nexus-business](https://github.com/ayeshafsaa/Nexus-business)
 
 ---
