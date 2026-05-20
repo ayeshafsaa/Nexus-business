@@ -1,7 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
-  <!-- Background circle -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <rect width="32" height="32" rx="8" fill="#7c3aed"/>
-  <!-- N letter mark -->
   <path d="M8 24V8l10 13V8" stroke="white" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M18 8v16" stroke="white" stroke-width="2.8" stroke-linecap="round"/>
 </svg>
